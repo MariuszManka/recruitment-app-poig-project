@@ -1,0 +1,131 @@
+﻿<Page x:Class="recruitment_app.View.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:recruitment_app.View"
+      xmlns:viewModel="clr-namespace:recruitment_app.ViewModel"
+      mc:Ignorable="d" 
+      d:DesignHeight="600" d:DesignWidth="900"
+      
+        xmlns:ui="http://schemas.modernwpf.com/2019"
+      Title="Page2" ui:ThemeManager.RequestedTheme="Dark">
+
+    <Page.Resources>
+        <viewModel:MainViewModel x:Key="mainViewModel" />
+    </Page.Resources>
+
+    <Grid Margin="0,0,0,-73"  DataContext="{StaticResource mainViewModel}" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*" />
+            <RowDefinition Height="12*" />
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1" Margin="0,2,0,0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="2*"/>
+                <ColumnDefinition Width="7*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+            </Grid.RowDefinitions>
+            <!-- TITLE FIELD-->
+            <TextBox Name="JobTitle"  Width="220" Height="35" Text="{Binding AddJobOfferTabInstance.Title}" Margin="21,22,659,562" Grid.ColumnSpan="2" />
+            <Label HorizontalAlignment="Left" VerticalAlignment="Top" Target="{Binding ElementName=JobTitle}" Foreground="#e6e6e6" Margin="30,46,0,0" >Title</Label>
+
+            <!-- POSITION FIELD-->
+            <TextBox Name="Position"  Width="220" Height="35" Text="{Binding AddJobOfferTabInstance.PositionName}" Margin="140,22,340,562" Grid.Column="1" />
+            <Label Foreground="#e6e6e6"  HorizontalAlignment="Left" VerticalAlignment="Top" Target="{Binding ElementName=Position}" Margin="149,46,0,0" Grid.Column="1" >Position</Label>
+
+            <!-- DESCRIPTION FIELD-->
+            <TextBox Name="Description"  HorizontalAlignment="Left" Width="220" Height="35" Text="{Binding AddJobOfferTabInstance.Description}" Margin="461,22,0,562" Grid.Column="1" />
+            <Label  Foreground="#e6e6e6" HorizontalAlignment="Left" VerticalAlignment="Top" Target="{Binding ElementName=Description}" Margin="460,46,0,0" Grid.Column="1" >Description</Label>
+
+            <!-- TASKS FIELD-->
+            <TextBox Name="Tasks"  Text="{Binding AddJobOfferTabInstance.Tasks}" Margin="21,95,469,324" TextWrapping="Wrap" Width="410" Height="200" Grid.ColumnSpan="2" />
+            <Label Foreground="#e6e6e6"  HorizontalAlignment="Left" VerticalAlignment="Top" Target="{Binding ElementName=Tasks}" Margin="30,120,0,0">Tasks</Label>
+
+            <!-- CANDIDATE DESCRIPTION FIELD-->
+            <TextBox Name="CandidateDescription" HorizontalAlignment="Left"  Width="410" Text="{Binding AddJobOfferTabInstance.CandidateDescription}" Margin="272,95,0,324" Height="200" Grid.Column="1" TextWrapping="WrapWithOverflow" />
+            <Label Foreground="#e6e6e6" HorizontalAlignment="Left" VerticalAlignment="Top" Width="171" Target="{Binding ElementName=CandidateDescription}" Margin="273,120,0,0" Grid.Column="1">
+                <AccessText TextWrapping="WrapWithOverflow">
+                    Candidate description
+                </AccessText>
+            </Label>
+
+            <!-- REQUIRED SKILS FIELD-->
+            <TextBox Name="RequiredSkils" HorizontalAlignment="Left"  Width="410" Height="200" Text="{Binding AddJobOfferTabInstance.RequiredSkills}" Margin="30,336,0,83" Grid.ColumnSpan="2" TextWrapping="WrapWithOverflow" />
+            <Label  Foreground="#e6e6e6" HorizontalAlignment="Center" VerticalAlignment="Top" Width="139" Target="{Binding ElementName=RequiredSkils}" Margin="0,361,0,0">
+                <AccessText TextWrapping="WrapWithOverflow" Width="109">
+                    Required skils
+                </AccessText>
+            </Label>
+
+            <!-- WAGE RATE FIELD-->
+            <Slider 
+                            x:Name="WageRate" 
+                            Minimum="2800" Maximum="25000" TickFrequency="500" IsSnapToTickEnabled="True"
+                            HorizontalAlignment="Left" VerticalAlignment="Top"
+                            Width="250"
+                            Value="{Binding AddJobOfferTabInstance.WageRate}" Margin="352,383,0,0" Grid.Column="1"
+                         />
+            <Label Foreground="#e6e6e6" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="352,363,0,0" Target="{Binding ElementName=WageRate}" Grid.Column="1">Wage Rate</Label>
+            <TextBlock  Foreground="#e6e6e6" HorizontalAlignment="Right" VerticalAlignment="Top"  Margin="0,391,366,0" Text="{Binding AddJobOfferTabInstance.WageRate}" Width="49" Grid.Column="1"/>
+
+            <!-- TRIAL DAYS FIELD-->
+            <Slider 
+                            x:Name="TrialDays"
+                            Minimum="0" Maximum="100" TickFrequency="5" IsSnapToTickEnabled="True"
+                            HorizontalAlignment="Left" VerticalAlignment="Top"
+                            Width="250"
+                            Value="{Binding AddJobOfferTabInstance.TrialDays}"  Margin="352,454,0,0" Grid.Column="1"
+                         />
+            <Label Foreground="#e6e6e6"  HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="352,437,0,0" Target="{Binding ElementName=TrialDays}" Grid.Column="1">Trial days</Label>
+            <TextBlock Foreground="#e6e6e6"  HorizontalAlignment="Right" VerticalAlignment="Top"  Margin="0,463,366,0" Text="{Binding AddJobOfferTabInstance.TrialDays}" Width="49" Grid.Column="1"/>
+
+            <!-- MINIMAL EXPERIENCE FIELD-->
+            <Slider 
+                            x:Name="MinimalExperience"
+                            Minimum="0"  Maximum="15" TickFrequency="1" IsSnapToTickEnabled="True"
+                            HorizontalAlignment="Left" VerticalAlignment="Top"
+                            Width="250"
+                            Value="{Binding AddJobOfferTabInstance.MinimalExperience}" Margin="352,529,0,0" Grid.Column="1"
+                         />
+            <Label Foreground="#e6e6e6"  HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="352,511,0,0" Target="{Binding ElementName=MinimalExperience}" Grid.Column="1">Minimal Experience</Label>
+            <TextBlock Foreground="#e6e6e6" HorizontalAlignment="Right" VerticalAlignment="Top"  Margin="0,538,366,0" Text="{Binding AddJobOfferTabInstance.MinimalExperience}" Width="49" Grid.Column="1"/>
+
+            <!-- ADD TO DATABASE BUTTON-->
+            <Button
+                            x:Name="AddJobOfferButtton" 
+                            Content="Add" 
+                Foreground="#e6e6e6"
+                            Height="30"
+                            Width="100"
+                            VerticalAlignment="Top"
+                            Command="{Binding AddJobOfferTabInstance.AddJobOffer}" Margin="571,579,0,0"
+                            Background="#18191A" Grid.Column="1"
+             />
+
+            <!-- CLEAN TO DATABASE BUTTON-->
+            <Button
+                            x:Name="ClearJobOfferForm" 
+                            Content="Clear" 
+                            Height="30"
+                            Width="100"
+                            VerticalAlignment="Top"
+                            HorizontalAlignment="Right"
+                            Foreground="#e6e6e6"
+                            Command="{Binding AddJobOfferTabInstance.CleanForm}" Margin="0,579,156,0"
+                            Background="#18191A" Grid.Column="1"
+                        />
+
+        </Grid>
+
+        <!--Header-->
+
+
+        <TextBlock Text="Dodaj nową ofertę" Foreground="#e6e6e6" FontSize="32" Margin="30,17,0,0" Grid.ColumnSpan="3"/>
+    </Grid>
+</Page>

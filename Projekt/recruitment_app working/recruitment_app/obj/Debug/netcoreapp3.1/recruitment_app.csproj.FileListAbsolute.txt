@@ -1,0 +1,1143 @@
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.exe
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.deps.json
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.json
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.dev.json
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.pdb
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\App.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.lref
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.g.resources
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfoInputs.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfo.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CoreCompileInputs.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.pdb
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.genruntimeconfig.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\MySql.Data.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CopyComplete
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csprojAssemblyReference.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.pdb
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.exe
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.deps.json
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.json
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.dev.json
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.pdb
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.AssemblyReference.cache
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\App.g.cs
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.cache
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.lref
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.g.resources
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfoInputs.cache
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfo.cs
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CoreCompileInputs.cache
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CopyComplete
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.genruntimeconfig.cache
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.exe
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.deps.json
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.json
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.dev.json
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.pdb
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\FluentWPF.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.Controls.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.AssemblyReference.cache
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.g.cs
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.cache
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.lref
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.baml
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.g.resources
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfoInputs.cache
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfo.cs
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CoreCompileInputs.cache
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CopyComplete
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.dll
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.pdb
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.genruntimeconfig.cache
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.Properties.Resources.resources
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.GenerateResource.cache
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.g.cs
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.baml
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.g.cs
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.g.cs
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.baml
+E:\_Projects\C# Studia\recruitment_app_project-main\recruitment_app_project-main\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.baml
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.exe
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.deps.json
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.json
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.dev.json
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.pdb
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\FluentWPF.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.Controls.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\MySql.Data.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csprojAssemblyReference.cache
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.cache
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.lref
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.baml
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.baml
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.baml
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.baml
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.g.resources
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.Properties.Resources.resources
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.GenerateResource.cache
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfoInputs.cache
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfo.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CoreCompileInputs.cache
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CopyComplete
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.pdb
+F:\STUDIA\POiG\PROJEKT - TYMEK\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.genruntimeconfig.cache
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.exe
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.deps.json
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.json
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.dev.json
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.pdb
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\FluentWPF.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.Controls.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\MySql.Data.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.Controls.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.resources.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.AssemblyReference.cache
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.g.cs
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.g.cs
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.g.cs
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.g.cs
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.cache
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.lref
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.baml
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.baml
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.baml
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.baml
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.g.resources
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.Properties.Resources.resources
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.GenerateResource.cache
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfoInputs.cache
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfo.cs
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CoreCompileInputs.cache
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CopyComplete
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.dll
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.pdb
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.genruntimeconfig.cache
+E:\_Projects\C# Studia\recruitment_app_16.09_Mariusz_poprawki\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_Content.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.exe
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.deps.json
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.json
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.dev.json
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.pdb
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\FluentWPF.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.Controls.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\MySql.Data.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.Controls.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.resources.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csprojAssemblyReference.cache
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_Content.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.cache
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.lref
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.baml
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.baml
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.baml
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.baml
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.g.resources
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.Properties.Resources.resources
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.GenerateResource.cache
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfoInputs.cache
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfo.cs
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CoreCompileInputs.cache
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CopyComplete
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.dll
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.pdb
+F:\STUDIA\POiG\PROJEKT - TYMEK\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.genruntimeconfig.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_Content.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.lref
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.pdb
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.exe
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.deps.json
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.json
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.dev.json
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.pdb
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\FluentWPF.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.Controls.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\MySql.Data.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.baml
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.baml
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.baml
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.baml
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.g.resources
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.Properties.Resources.resources
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.GenerateResource.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfoInputs.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfo.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CoreCompileInputs.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CopyComplete
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.genruntimeconfig.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt\V2\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csprojAssemblyReference.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.exe
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.deps.json
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.json
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.runtimeconfig.dev.json
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\recruitment_app.pdb
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\FluentWPF.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.Controls.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ModernWpf.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\MySql.Data.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Zstandard.Net.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Renci.SshNet.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\SshNet.Security.Cryptography.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\Microsoft.Expression.Interactions.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\System.Windows.Interactivity.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\af-ZA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\am-ET\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ar-SA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\az-Latn-AZ\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\be-BY\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bg-BG\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bn-BD\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\bs-Latn-BA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ca-ES\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\cs-CZ\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\da-DK\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\de-DE\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\el-GR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\en-GB\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-ES\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\es-MX\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\et-EE\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\eu-ES\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fa-IR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fi-FI\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-CA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\fr-FR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\gl-ES\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ha-Latn-NG\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\he-IL\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hi-IN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hr-HR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\hu-HU\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\id-ID\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\is-IS\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\it-IT\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ja-JP\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ka-GE\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kk-KZ\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\km-KH\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\kn-IN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ko-KR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lo-LA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lt-LT\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\lv-LV\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\mk-MK\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ml-IN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ms-MY\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nb-NO\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nl-NL\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\nn-NO\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pl-PL\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-BR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\pt-PT\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ro-RO\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ru-RU\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sk-SK\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sl-SI\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sq-AL\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sr-Latn-RS\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sv-SE\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\sw-KE\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\ta-IN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\te-IN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\th-TH\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\tr-TR\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uk-UA\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\uz-Latn-UZ\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\vi-VN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-CN\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.Controls.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\bin\Debug\netcoreapp3.1\zh-TW\ModernWpf.resources.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csprojAssemblyReference.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_Content.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app_MarkupCompile.lref
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\App.baml
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\MainWindow.baml
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page0.baml
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page1.baml
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\View\Page2.baml
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.g.resources
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.Properties.Resources.resources
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.GenerateResource.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfoInputs.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.AssemblyInfo.cs
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CoreCompileInputs.cache
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.csproj.CopyComplete
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.dll
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.pdb
+G:\Studia\Programowanie\Programowanie obiektowe i Graficzne\Projekt Git\Projekt\recruitment_app working\recruitment_app\obj\Debug\netcoreapp3.1\recruitment_app.genruntimeconfig.cache
